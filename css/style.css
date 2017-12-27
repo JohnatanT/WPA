@@ -75,3 +75,23 @@
 #notes li:hover{
     background-color: aqua;
 }
+
+.informacoes .bloco{
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
+}
+
+.informacoes .uso{
+    text-align: center
+}
+
+.informacoes .uso h4, .informacoes .bloco h2{
+    text-transform: uppercase;
+    font-weight: bold
+}
+
+.informacoes .bloco p, .informacoes .uso p{
+    font-size: 17px;
+    color: #496161;
+}
